@@ -229,6 +229,10 @@ https://explain.datadoghq.com/*?splat=
 
 # 历史greenplum知识点介绍
 
+## 202603 月
+
+1、[随机I/O的实际成本](202603/随机IO的实际成本.md)
+
 ## 202602 月
 
 1、[深度解密MySQL2PG工具MySQL至PostgreSQL语法全景拆解过程](202602/深度解密MySQL2PG工具MySQL至PostgreSQL语法全景拆解过程.md)
